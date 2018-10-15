@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#customized
+##########
+##########
+
+*.sqlite3
+db.sqlite3
+
